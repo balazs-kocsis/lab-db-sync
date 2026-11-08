@@ -3,7 +3,7 @@
 # Define the absolute IP addresses of your virtual machines
 DEBIAN_IP="172.16.158.134"
 UBUNTU_IP="172.16.158.131"
-ROCKY_IP="172.16.158.1343"
+ROCKY_IP="172.16.158.133"
 
 echo "=== 1. Syncing Local Code Asset up to GitHub ==="
 git add .
